@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="left">geoff 🤙</h1>
+<p align="left">macOS security engineer 🇺🇸 🇳🇱</p>
 
-<!--
-**geoffrepoli/geoffrepoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/geoffrepoli?tab=repositories">
+    <img width="50%" align="right" alt="geoffrepoli's Github stats" src="https://github-readme-stats.vercel.app/api?username=geoffrepoli&show_icons=true&hide_border=true&theme=dracula"/>
+  </a>
+ <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <br />
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <br />
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/okta/okta-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/jamf/jamf-ar21.svg"></code> 
+    <br />
+</p>
