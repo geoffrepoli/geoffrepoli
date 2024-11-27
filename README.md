@@ -1,5 +1,4 @@
-<h1 align="left">geoff 🤙</h1>
-<p align="left">macOS security engineer 🇺🇸 🇳🇱</p>
+<h1 align="left">macos security engineer &nbsp🇺🇸&nbsp 🇳🇱</h1>
 
 <p>
   <a href="https://github.com/geoffrepoli?tab=repositories">
